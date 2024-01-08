@@ -1,0 +1,10 @@
+[ 27.10.2023 - 16:41:37 ]
+    (MSG) [2] in SMILExtract : openSMILE starting!
+[ 27.10.2023 - 16:41:37 ]
+    (MSG) [2] in SMILExtract : config file is: smile.conf
+[ 27.10.2023 - 16:41:37 ]
+    (MSG) [2] in cComponentManager : successfully registered 95 component types.
+[ 27.10.2023 - 16:41:37 ]
+    (ERROR) [1] in configManager : cFileConfigReader::openInput : cannot open input file 'smile.conf'!
+[ 27.10.2023 - 16:41:37 ]
+    (ERROR) [1] in configManager : cFileConfigReader::openInput : cannot open input file 'smile.conf'!
